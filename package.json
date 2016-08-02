@@ -1,0 +1,15 @@
+{
+  "name": "monitor-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monitor-connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "ping": "^0.1.10"
+  }
+}
